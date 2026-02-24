@@ -2,14 +2,12 @@
 
 **A  Java Developer building the future with code.**
 
-  ## <img src="https://s11.aconvert.com/convert/p3r68-cdx67/3jzpf-25zq6-001.ico" width="28" align="center" /> Tab Story
+# ⭐ **Support my extension** by rating it on the Chrome Web Store or sharing it with friends!
 
 Stop copying URLs to Notepad. Save important tabs and find them weeks later without Chrome's 100+ -entry history mess.
  
 [![Available in the Chrome Web Store](https://i0.wp.com/yonatankra.com/wp-content/uploads/2022/08/chrome-webstore.png?w=496&ssl=1)](https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb)
 
-
-⭐ **Support my extension** by rating it on the Chrome Web Store or sharing it with friends!
 
 
 
