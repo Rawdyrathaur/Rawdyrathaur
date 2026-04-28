@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Manish
 
-**A  Java Developer building the future with code.**
+**AI/ML Engineer and QA Tester with hands-on experience in Java, Web, and Android Development.**
 
 # ⭐ Support my extension by rating it on the Chrome Web Store or sharing it with friends!
 
