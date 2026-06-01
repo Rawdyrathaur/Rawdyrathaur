@@ -14,12 +14,3 @@ Stop copying URLs to Notepad. Save important tabs and find them weeks later with
 
 
 ## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:mrathaur704@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/manish-rathaur-80b40b24a/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/mrathaur704)
-
-</div>
