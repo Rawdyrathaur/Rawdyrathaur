@@ -1,16 +1,15 @@
 # Hi there 👋, I'm Manish
 
-**AI/ML Engineer and QA Tester with hands-on experience in Java, Web, and Android Development.**
+**Full Stack Web and Java Developer with hands-on experience in Java, Web, and Android Technologies.**
 
-# ⭐ Support my extension by rating it on the Chrome Web Store or sharing it with friends!
+# ✨ Creating software with purpose.
 
-Stop copying URLs to Notepad. Save important tabs and find them weeks later without Chrome's 100+ -entry history mess.
- 
-[![Available in the Chrome Web Store](https://i0.wp.com/yonatankra.com/wp-content/uploads/2022/08/chrome-webstore.png?w=496&ssl=1)](https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb)
+## 🧩 Browser Extensions
 
-
+<img src="https://raw.githubusercontent.com/Rawdyrathaur/Tab_story/main/tab-story/public/icons/icon-128.png" width="20" alt="Tab Story"> **[Tab Story](https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb)** — Your personal tab organizer with a clean, intuitive UI.
 
 
+## 🛠️ CLI Tool
 
-
+<img src="https://raw.githubusercontent.com/Rygnal/.github/setup-github-profile/288857937.png" width="20" alt="Rygnal"> **[Rygnal](https://github.com/Rygnal/rygnal-core)** —  Recover from accidental file deletions caused by AI agents.
 ## 🤝 Let's Connect & Collaborate
