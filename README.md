@@ -1,15 +1,23 @@
 # Hi there 👋, I'm Manish
 
-**Full Stack Web and Java Developer with hands-on experience in Java, Web, and Android Technologies.**
+**Full Stack Software Engineer with hands-on experience in Java, Python, AI technologies, and modern web development.**
 
 # ✨ Creating software with purpose.
 
 ## 🧩 Browser Extensions
 
-<img src="https://raw.githubusercontent.com/Rawdyrathaur/Tab_story/main/tab-story/public/icons/icon-128.png" width="20" alt="Tab Story"> **[Tab Story](https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb)** — Your personal tab organizer with a clean, intuitive UI.
+<p>
+  <img src="https://raw.githubusercontent.com/Rawdyrathaur/Tab_story/main/tab-story/public/icons/icon-128.png" width="20" valign="middle" style="vertical-align:middle;" alt="Tab Story">
+  <strong><a href="https://chromewebstore.google.com/detail/tab-story/nhjglpjgddjcjafdabmepgalnaejnleb">Tab Story</a></strong>
+  — Your personal tab organizer with a clean, intuitive UI.
+</p>
 
+## 🛠️ CLI Tools
 
-## 🛠️ CLI Tool
+<p>
+  <img src="https://raw.githubusercontent.com/Rygnal/.github/setup-github-profile/288857937.png" width="20" valign="middle" style="vertical-align:middle;" alt="Rygnal">
+  <strong><a href="https://github.com/Rygnal/rygnal-core">Rygnal</a></strong>
+  — Recover from accidental file deletions caused by AI agents.
+</p>
 
-<img src="https://raw.githubusercontent.com/Rygnal/.github/setup-github-profile/288857937.png" width="20" alt="Rygnal"> **[Rygnal](https://github.com/Rygnal/rygnal-core)** —  Recover from accidental file deletions caused by AI agents.
 ## 🤝 Let's Connect & Collaborate
